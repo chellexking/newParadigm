@@ -565,7 +565,7 @@ div#preloader {
 
 .progress-h4 {
   color: #fff;
-  font-weight: 500;
+  font-weight: 150;
 }
 
 /*----------------------------------------
@@ -1027,7 +1027,7 @@ div#preloader {
   float: right;
   height: 100%;
   overflow: hidden;
-  padding: 71px 0;
+  padding: 35px 0;
   width: 50%;
   position: absolute;
   right: 0;
@@ -1880,13 +1880,13 @@ div#preloader {
 
 .header-bg.home-2 {
   width: 100%;
-  height: 100%;
+  height: 10%;
   position: relative;
 }
 
 .home-overly {
   background: rgba(0, 0, 0, 0.50);
-  height: 100%;
+  height: 10%;
   position: absolute;
   width: 100%;
 }
